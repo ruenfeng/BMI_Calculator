@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset_button">Reset</string>
+    <string name="weight">Weight (KG):</string>
+    <string name="height">Height (CM):</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="bmi">BMI :</string>
+    <string name="under">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="over">Overweight</string>
+    <string name="input_error">Please enter value</string>
+</resources>
